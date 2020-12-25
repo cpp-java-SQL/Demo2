@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="Welcome_text">This is a demo app for beginner android devs etc!</string>
+    <string name="prototype_button">prototype button</string>
+    <string name="proto2">Proto2</string>
+    <string name="proto3">proto3</string>
+    <string name="show_location">show Location</string>
+    <string name="dialphone">dialphone</string>
+    <string name="open_webpage">open webpage</string>
+    <string name="ViewIntent">ViewIntent</string>
+    <string name="lets_get_pro">Lets Get Pro</string>
+    <string name="toast">toast</string>
+</resources>
